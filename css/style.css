@@ -26,8 +26,8 @@
 
 h1{
     color: aliceblue;
-    padding: 20px;
-    font-size: 24px;
+    padding: 13px;
+    font-size: 22px;
 }
 
 input{
@@ -80,11 +80,11 @@ input{
 
  @media only screen and (max-width: 380px) {
     
-    /* .calme{
+    .calme{
         background-color: aqua;
-        width: 60vw;
+        /* width: 60vw; */
         
-    } */
+    }
 
     .row button{
         margin: 2px;
